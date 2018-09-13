@@ -1,0 +1,128 @@
+#black {
+	background-color: #000;
+}
+nav {
+	background-color: #a4d0d9;
+	font-weight: bold;
+}
+nav img {
+	width: 63px;
+	height: 63px;
+}
+
+.con-blue {
+	background-color: #a4d0d9;
+}
+.carousel {
+	background-color: #a4d0d9;
+}
+
+.blue-row-top {
+	background-color: #a4d0d9;
+	height: 555px;
+}
+
+.car-p {
+	margin-top: 22%;
+}
+
+
+.green {
+	background-color: #9ad4a4;
+}
+
+.green-ul .two {
+	background-color: #9ad4a4;
+	border: 1px solid white;
+}
+
+.green img {
+	border-radius: 10px;
+}
+
+.middle-grey {
+	background-color: #f1f1f1;
+}
+
+.bottom-pink {
+	background-color: #dfb6c6
+}
+
+.bottom-pink p {
+	font-size: 12px;
+}
+
+.bottom-pink i {
+	font-size: 25px;
+	margin: 0 7px;
+}
+
+.bottom-pink .fa-facebook-square {
+	color: #2c419b;
+}
+
+.bottom-pink .fa-twitter-square {
+	color: #2fa2fa;
+}
+
+.bottom-pink .fa-pinterest-square {
+	color: #bb2043;
+}
+
+.bottom-blue {
+	background-color: #b4d4df;
+}
+
+.bottom-blue img {
+	background-color: #f1f1f1;
+}
+
+.bottom-blue p {
+	font-size: 12px;
+}
+
+.bottom-blue button {
+	color: #b4d4df;
+	background-color: #fff;
+}
+
+.bottom-dark {
+	background-color: #3c3c3c; 
+}
+
+.bottom-dark p {
+	font-size: 12px;
+}
+
+.bottom-dark input {
+	width: 60%;
+}
+
+hr {
+	border: 1px solid #000;
+	width: 60%;
+}
+
+.bottom-dark i {
+	color: #e8e6e4;
+	font-size: 22px;
+	margin: 0 4px;
+}
+
+.icon {
+	position: relative;
+	left: 57px;
+}
+
+.paragraph {
+	position: relative;
+	left: 40px;
+}
+
+.bottom-dark p {
+	color: #807a5d;
+}
+
+.bottom-dark span {
+	color: #fff1bd;
+}
